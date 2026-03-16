@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trex Tondo</h1>
 <h3 align="center">A passionate full stack developer from USA</h3>
 
-- 🔭 I’m currently working on [VoltAgent](https://voltagent.dev/)
+- 🔭 I’m currently working on [EthGlobal](https://github.com/ethglobal)
 
 - 🌱 I’m currently learning **React, Vite, Tanstack, blockchain project**
 
